@@ -68,7 +68,7 @@ Prepare a text file (missing_input.txt) containing a list of search terms, one p
 
 Run the script:
 
-python scraper.py
+amazon probiotic web scraping.py
 
 The script will:
 
