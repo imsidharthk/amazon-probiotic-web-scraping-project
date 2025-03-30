@@ -51,8 +51,6 @@ Setup
 
 Clone this repository:
 
-git clone https://github.com/your-username/amazon-product-scraper.git
-cd amazon-product-scraper
 
 Install required dependencies:
 
